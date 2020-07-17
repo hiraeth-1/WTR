@@ -1,1 +1,2 @@
-#Quantumult规则
+# Quantumult 规则
+
