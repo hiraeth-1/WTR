@@ -1,0 +1,6 @@
+主机名= * .musical.ly，*。tiktokv.com，*。tiktokcdn.com，api * .amemv.com，aweme * .snssdk.com
+
+（。* video_id = \ w {32}）（。* watermark =）（。*）网址302 $ 1
+（？<=（运营商|帐户| sys）_region =）CN网址307 JP
+（？<= version_code =）\ d {1，}。\ d {1} \。\ d {1}网址307 8.4.0
+;（如果想解锁美区tiktok纳入条注释）
